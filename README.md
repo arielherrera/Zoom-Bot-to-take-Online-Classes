@@ -4,6 +4,8 @@ This is a python zoom bot which automates the process of joining a zoom meeting.
 
 ## installation
 before running the bot `python3 ./zoom_bot.py` you must have pip installed and then install:
+
 selenium: `pip3 install selenium`
+
 keyboard: `pip3 install keyboard`
 
