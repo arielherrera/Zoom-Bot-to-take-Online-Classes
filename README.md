@@ -9,3 +9,9 @@ selenium: `pip3 install selenium`
 
 keyboard: `pip3 install keyboard`
 
+And set up PATH for geckodriver executable (Proxy for using W3C WebDriver-compatible clients to interact with Gecko-based browsers, e.g., FireFox)
+
+`sudo ln -s <complete path to geckodriver executable> /usr/local/bin`
+
+The <> above should be the director where you clone this repo with the addition of 'geckodriver' to the end (complete path).
+
